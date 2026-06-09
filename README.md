@@ -15,10 +15,13 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos públicos y
 
 ## 🔹 Proyectos destacados
 
-### Proyecto 1
+### Proyecto 1: Phoenix Agitatos
 Este proyecto es un ejemplo de **Machine Learning Supervisado** desarrollado para **Samsung Innovation Campus**.  
 [Enlace al repositorio](https://github.com/jimenezgimenojesus/SAMSUNG_ML_Project)
-### Proyecto 2: Apuntes Curso Introducción a Python
+### Proyecto 2: Agentic BDI-architecture
+Este proyecto es un ejemplo de **Arquitectura BDI** desarrollado para la asignatura **Agentes Inteligentes**.  
+[Enlace al repositorio](https://github.com/jimenezgimenojesus/Agentic_BDI-Architecture)
+### Proyecto 3: Apuntes Curso Introducción a Python
 Apuntes y materiales del curso de **Introducción a Python** de **Samsung Innovation Campus**.  
 [Enlace al repositorio](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
 
