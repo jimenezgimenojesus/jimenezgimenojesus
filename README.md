@@ -16,16 +16,17 @@ Welcome to my GitHub profile. Here you'll find my public projects and contributi
 ## 🔹 Featured projects
 
 ### Project 1: Kaggle Housing Prices
-This project is an example of **Supervised Machine Learning** developed for **Samsung Innovation Campus**.  
+An example of **Supervised Machine Learning** developed for **Samsung Innovation Campus**.  
 [Repository link](https://github.com/jimenezgimenojesus/SAMSUNG_ML_Project)
 ### Project 2: Agentic BDI-architecture
-This project is an example of **BDI Architecture** developed for the **Intelligent Agents** course.  
+An example of **BDI Architecture** developed for the **Intelligent Agents** course.  
 [Repository link](https://github.com/jimenezgimenojesus/Agentic_BDI-Architecture)
 ### Project 3: Introduction to Python Course Notes
 Notes and materials from the **Introduction to Python** course at **Samsung Innovation Campus**.  
 [Repository link](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
 ### Project 4: Phoenix Agitatos
-...
+A ML Classification System for Paralympic Sport Selection developed as a **Capstone Project** from the **AI Diploma** at **Samsung Innovation Campus**.  
+[Repository link](https://github.com/jimenezgimenojesus/Samsung_AI_Course)
 ---
 
 ## 🔹 Contributions
