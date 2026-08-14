@@ -1,41 +1,41 @@
 # jimenezgimenojesus
 
-¡Hola! Soy **jimenezgimenojesus**, desarrollador/a y entusiasta de la programación.  
-Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos públicos y contribuciones.
+Hello! I'm **jimenezgimenojesus**, a developer and programming enthusiast.  
+Welcome to my GitHub profile. Here you'll find my public projects and contributions.
 
 ---
 
-## 🔹 Sobre mí
+## 🔹 About me
 
-- 💻 Apasionado por el desarrollo web y software
-- 🌱 Aprendiendo constantemente nuevas tecnologías
-- 📫 Contacto: jimenezgimenojesus@gmail.com
+- 💻 Passionate about web and software development
+- 🌱 Constantly learning new technologies
+- 📫 Contact: jimenezgimenojesus@gmail.com
 
 ---
 
-## 🔹 Proyectos destacados
+## 🔹 Featured projects
 
-### Proyecto 1: Kaggle Housing Prices
-Este proyecto es un ejemplo de **Machine Learning Supervisado** desarrollado para **Samsung Innovation Campus**.  
-[Enlace al repositorio](https://github.com/jimenezgimenojesus/SAMSUNG_ML_Project)
-### Proyecto 2: Agentic BDI-architecture
-Este proyecto es un ejemplo de **Arquitectura BDI** desarrollado para la asignatura **Agentes Inteligentes**.  
-[Enlace al repositorio](https://github.com/jimenezgimenojesus/Agentic_BDI-Architecture)
-### Proyecto 3: Apuntes Curso Introducción a Python
-Apuntes y materiales del curso de **Introducción a Python** de **Samsung Innovation Campus**.  
-[Enlace al repositorio](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
-### Proyecto 4: Phoenix Agitatos
+### Project 1: Kaggle Housing Prices
+This project is an example of **Supervised Machine Learning** developed for **Samsung Innovation Campus**.  
+[Repository link](https://github.com/jimenezgimenojesus/SAMSUNG_ML_Project)
+### Project 2: Agentic BDI-architecture
+This project is an example of **BDI Architecture** developed for the **Intelligent Agents** course.  
+[Repository link](https://github.com/jimenezgimenojesus/Agentic_BDI-Architecture)
+### Project 3: Introduction to Python Course Notes
+Notes and materials from the **Introduction to Python** course at **Samsung Innovation Campus**.  
+[Repository link](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
+### Project 4: Phoenix Agitatos
 ...
 ---
 
-## 🔹 Contribuciones
+## 🔹 Contributions
 
-- Participación en proyectos de código abierto
-- Colaboraciones con compañeros de clase/equipo
+- Participation in open-source projects
+- Collaborations with classmates/team members
 
 ---
 
-## 🔹 Contacto
+## 🔹 Contact
 
 - GitHub: [here](https://github.com/jimenezgimenojesus)  
 - LinkedIn: [here](https://www.linkedin.com/in/jesus-jimenez-gimeno/)  
