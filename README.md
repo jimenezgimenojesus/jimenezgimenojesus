@@ -15,7 +15,7 @@ Bienvenido/a a mi perfil de GitHub. Aquí encontrarás mis proyectos públicos y
 
 ## 🔹 Proyectos destacados
 
-### Proyecto 1: Phoenix Agitatos
+### Proyecto 1: Kaggle Housing Prices
 Este proyecto es un ejemplo de **Machine Learning Supervisado** desarrollado para **Samsung Innovation Campus**.  
 [Enlace al repositorio](https://github.com/jimenezgimenojesus/SAMSUNG_ML_Project)
 ### Proyecto 2: Agentic BDI-architecture
@@ -24,7 +24,8 @@ Este proyecto es un ejemplo de **Arquitectura BDI** desarrollado para la asignat
 ### Proyecto 3: Apuntes Curso Introducción a Python
 Apuntes y materiales del curso de **Introducción a Python** de **Samsung Innovation Campus**.  
 [Enlace al repositorio](https://github.com/jimenezgimenojesus/Samsung_Python_Course)
-
+### Proyecto 4: Phoenix Agitatos
+...
 ---
 
 ## 🔹 Contribuciones
